@@ -57,6 +57,5 @@
 <img src="https://i.imgur.com/ceORcli.jpg" alt="android" width="100%"/> </a> 
 
 <h3>AltaBirra SPA</h3>
-<span>It is an ecommerce focused on the purchase and sale of craft beers.</span>
-
+<span>It is an ecommerce focused on the purchase and sale of craft beers (click to see a video!)</span>
 [![AltaBirra](https://res.cloudinary.com/marcomontalbano/image/upload/v1628116709/video_to_markdown/images/youtube--6YCtgD0O8ng-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=6YCtgD0O8ng "AltaBirra")

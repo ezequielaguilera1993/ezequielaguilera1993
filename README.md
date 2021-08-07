@@ -51,7 +51,7 @@
 </div>
 
 <h1 align="center" >Some of my work</h1>
--------------------------
+  <br></br>  <br></br>
 <h1 align="center" >Pokemon SPA</h1>
 <div align="center" >It's a single page application about pokemons</div>
 <a href="https://github.com/ezequielaguilera1993/Pokemon-SPA.git" target="_blank">

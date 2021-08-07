@@ -57,7 +57,7 @@
 <a href="https://github.com/ezequielaguilera1993/Pokemon-SPA.git" target="_blank">
 <img align="center" src="https://i.imgur.com/ceORcli.jpg" alt="android" width="100%"/> </a> 
   <br></br>
-    <br></br>
+
 <h1 align="center" > AltaBirra SPA</h1>
 <div align="center" >It is an ecommerce focused on the purchase and sale of craft beers (click below to see a video)</div>
 <div align="center">

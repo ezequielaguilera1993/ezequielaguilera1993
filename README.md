@@ -51,12 +51,12 @@
 </div>
 
 <h1>Some of my work</h1>
-<h3>Pokemon SPA</h3>
+<h1>Pokemon SPA</h1>
 <span>It's a single page application about pokemons</span>
 <a href="https://github.com/ezequielaguilera1993/Pokemon-SPA.git" target="_blank">
 <img src="https://i.imgur.com/ceORcli.jpg" alt="android" width="100%"/> </a> 
   <br></br>
-<h3>AltaBirra SPA</h3>
+<h1>AltaBirra SPA</h1>
 <span>It is an ecommerce focused on the purchase and sale of craft beers (click below to see a video)</span>
 
 [![AltaBirra](https://res.cloudinary.com/marcomontalbano/image/upload/v1628116709/video_to_markdown/images/youtube--6YCtgD0O8ng-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=PGe7mLyGKsg "AltaBirra")

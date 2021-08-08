@@ -51,7 +51,6 @@
 </div>
   <br></br>
 <h1 align="center" >Some of my work</h1>
-  <br></br>
 
 <h1 align="center" > AltaBirra SPA</h1>
 <div align="center" >It is an ecommerce focused on the purchase and sale of craft beers (click below to see a video)</div>

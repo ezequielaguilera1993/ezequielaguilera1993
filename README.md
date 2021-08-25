@@ -1,7 +1,7 @@
 
 
 <a href="https://imgur.com/mvHT3Rv"><img src="https://i.imgur.com/mvHT3Rv.jpg" title="source: imgur.com" /></a>
-<h1 align="center">Ezequiel Aguilera, Full Stack Web Developer</h1>
+<h1 align="center">Ezequiel Aguilera. Full Stack Web Developer</h1>
 <h2 align="center">Contact 💌 </h2>
 <p align="left">
  

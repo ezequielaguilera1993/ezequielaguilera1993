@@ -56,8 +56,8 @@
 <h1 align="center" > AltaBirra SPA</h1>
 <div align="center" >It is an ecommerce focused on the purchase and sale of craft beers (click below to see a video)
 
-<a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"><img src="https://i.imgur.com/lbDj1Ou.png" alt="typescript" width="90" height="90" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="100" height="100" /> </a>
+<a href="https://github.com/LeaMarco/AltaBirra.git" target="_blank"><img src="https://i.imgur.com/lbDj1Ou.png" alt="typescript" width="90" height="90" /></a>
+<a href="https://altabirra.vercel.app/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="100" height="100" /> </a>
 
 </div>
 
@@ -65,10 +65,12 @@
    <br></br>
     <br></br>
  <h1 align="center" >Pokemon SPA</h1>
-<div align="center" >It's a single page application about pokemons</div>
-<a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"><img src="https://i.imgur.com/lbDj1Ou.png" alt="typescript" width="70" height="70" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="70" height="70" /> </a>
+<div align="center" >It's a single page application about pokemons
 
+<a href="https://github.com/ezequielaguilera1993/Pokemon-SPA.git" target="_blank"><img src="https://i.imgur.com/lbDj1Ou.png" alt="typescript" width="90" height="90" /></a>
+<a href="https://pokemon-proyect.vercel.app/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="100" height="100" /> </a>
+
+</div>
 
 
 [![Pokemon](https://i.imgur.com/SFIKQKM.jpg)](https://www.youtube.com/watch?v=_pI3rPdwZp0  "Pokemon")

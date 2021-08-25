@@ -56,7 +56,7 @@
 <div align="center" >It is an ecommerce focused on the purchase and sale of craft beers (click below to see a video)</div>
  </div>
  
-[![AltaBirra](https://res.cloudinary.com/marcomontalbano/image/upload/v1628116709/video_to_markdown/images/youtube--6YCtgD0O8ng-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_pI3rPdwZp0  "AltaBirra")
+[![AltaBirra](https://i.imgur.com/sw0bxEz.jpg)](https://www.youtube.com/watch?v=_pI3rPdwZp0  "AltaBirra")
  
  <h1 align="center" >Pokemon SPA</h1>
 <div align="center" >It's a single page application about pokemons</div>

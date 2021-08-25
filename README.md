@@ -57,7 +57,8 @@
  </div>
  
 [![AltaBirra](https://i.imgur.com/sw0bxEz.jpg)](https://www.youtube.com/watch?v=_pI3rPdwZp0  "AltaBirra")
- 
+   <br></br>
+    <br></br>
  <h1 align="center" >Pokemon SPA</h1>
 <div align="center" >It's a single page application about pokemons</div>
 
@@ -65,5 +66,4 @@
 
 [![Pokemon](https://i.imgur.com/SFIKQKM.jpg)](https://www.youtube.com/watch?v=_pI3rPdwZp0  "Pokemon")
 
-  <br></br>
-    <br></br>
+

@@ -54,7 +54,7 @@
 <h1 align="center" >Some of my work</h1>
 
 <h1 align="center" > AltaBirra SPA</h1>
-<div align="center" >It is an ecommerce focused on the purchase and sale of craft beers (click below to see a video)</div>
+<div align="center" >It is an ecommerce focused on the purchase and sale of craft beers (click below to see a video)
 
 <a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"><img src="https://i.imgur.com/lbDj1Ou.png" alt="typescript" width="70" height="70" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="100" height="100" /> </a>

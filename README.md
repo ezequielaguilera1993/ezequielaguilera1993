@@ -47,13 +47,10 @@
 
 
      
-<a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="typescript" width="40" height="40" /> </a>
+<a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="typescript" width="40" height="40" /> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="40" height="40" /> </a>
 
 
- <a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="typescript" width="40" height="40" /> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="40" height="40" /> </a>
- 
  
  
 </div>

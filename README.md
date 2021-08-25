@@ -55,10 +55,9 @@
 
 <h1 align="center" > AltaBirra SPA</h1>
 <div align="center" >It is an ecommerce focused on the purchase and sale of craft beers (click below to see a video)</div>
-      
-<a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"><img src="https://i.imgur.com/lbDj1Ou.png" alt="typescript" width="70" height="70" />
- <div>Repo</div> </a>
-<a href="https://www.typescriptlang.org/" target="_blank">Deploy<img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="70" height="70" /> </a>
+
+<a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"><img src="https://i.imgur.com/lbDj1Ou.png" alt="typescript" width="70" height="70" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="100" height="100" /> </a>
 
 
 [![AltaBirra](https://i.imgur.com/sw0bxEz.jpg)](https://www.youtube.com/watch?v=_pI3rPdwZp0  "AltaBirra")
@@ -66,6 +65,8 @@
     <br></br>
  <h1 align="center" >Pokemon SPA</h1>
 <div align="center" >It's a single page application about pokemons</div>
+<a href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" target="_blank"><img src="https://i.imgur.com/lbDj1Ou.png" alt="typescript" width="70" height="70" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/1508/1508878.png" alt="typescript" width="70" height="70" /> </a>
 
 
 

@@ -46,8 +46,7 @@
   <br></br>
 
 
- <h3 align="center" >My Portfolio</h3> <div align="center" > <a href="</div>
-" target="_blank"><img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/briefcase-microsoft.png" alt="ezequiel-aguilera" height="100" width="100" /></a>
+ <h3 align="center" >My Portfolio</h3> <div align="center" > <a href="https://ezequielaguileraportfolio.vercel.app/" target="_blank"><img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/briefcase-microsoft.png" alt="ezequiel-aguilera" height="100" width="100" /></a>
  
 </div>
   <br></br>

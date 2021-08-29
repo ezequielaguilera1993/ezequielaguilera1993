@@ -5,10 +5,10 @@
 <h2 align="center">Contact 💌 </h2>
 <p align="left">
  
-<h5 align="center" >See my Linkedin profile</h5>  <div align="center" > <a  href="https://linkedin.com/in/ezequiel-aguilera" target="_blank"> <img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel-aguilera" height="30" width="40" /></a></div>  
+<h4 align="center" >See my Linkedin profile</h4>  <div align="center" > <a  href="https://linkedin.com/in/ezequiel-aguilera" target="_blank"> <img  align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequiel-aguilera" height="50" width="50" /></a></div>  
 <br></br>
 
-<h5 align="center" >Send me an email</h5> <div align="center" > <a href="mailto:ezequielaguilera@live.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="ezequiel-aguilera" height="40" width="40" /></a>
+<h4 align="center" >Send me an email</h4> <div align="center" > <a href="mailto:ezequielaguilera@live.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="ezequiel-aguilera" height="60" width="60" /></a>
    
   <br></br>
  
@@ -46,7 +46,7 @@
   <br></br>
 
 
- <h3 align="center" >My Portfolio</h5> <div align="center" > <a href="mailto:ezequielaguilera@live.com" target="_blank"><img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/briefcase-microsoft.png" alt="ezequiel-aguilera" height="80" width="80" /></a>
+ <h3 align="center" >My Portfolio</h3> <div align="center" > <a href="mailto:ezequielaguilera@live.com" target="_blank"><img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/briefcase-microsoft.png" alt="ezequiel-aguilera" height="100" width="100" /></a>
  
 </div>
   <br></br>

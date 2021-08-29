@@ -9,8 +9,6 @@
 <br></br>
 
 <h5 align="center" >Send me an email</h5> <div align="center" > <a href="mailto:ezequielaguilera@live.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="ezequiel-aguilera" height="40" width="40" /></a>
-</div>  
-
    
   <br></br>
  
@@ -47,7 +45,7 @@
 
 
 
- 
+ <h5 align="center" >My Portfolio</h5> <div align="center" > <a href="mailto:ezequielaguilera@live.com" target="_blank"><img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/briefcase-microsoft.png" alt="ezequiel-aguilera" height="40" width="40" /></a>
  
 </div>
   <br></br>

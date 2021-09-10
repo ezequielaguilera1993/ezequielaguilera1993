@@ -33,6 +33,8 @@
 •Babel
 •Electron
 •Firebase
+•MongoDB
+•Mongoose
 
 </div>
 
